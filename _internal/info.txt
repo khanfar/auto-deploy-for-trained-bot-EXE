@@ -1,0 +1,12 @@
+
+
+
+
+
+pip install huggingface_hub
+
+huggingface-cli login
+
+cd C:\Users\Lenovo\Desktop\trained-bot
+
+gradio deploy
